@@ -1,0 +1,115 @@
+,room_type,price,host_is_superhost,host_acceptance_rate,bathrooms,review_scores_cleanliness,host_identity_verified,instant_bookable,property_type
+354,Shared room,303.0,0.0,100.0,2.0,4.7,1.0,0.0,Shared room in condo
+2115,Shared room,2123.0,0.0,100.0,1.0,5.0,1.0,0.0,Shared room in rental unit
+3163,Shared room,413.0,0.0,67.0,1.0,4.88,1.0,0.0,Shared room in rental unit
+4035,Shared room,413.0,0.0,67.0,1.0,4.64,1.0,0.0,Shared room in rental unit
+4270,Shared room,574.0,0.0,50.0,1.0,5.0,1.0,0.0,Shared room in condo
+4740,Shared room,3000.0,0.0,99.0,1.0,4.8,1.0,0.0,Shared room in rental unit
+4754,Shared room,345.0,0.0,99.0,1.5,4.34,1.0,1.0,Shared room in hostel
+5004,Shared room,708.0,0.0,91.0,1.5,4.77,1.0,1.0,Shared room in home
+5352,Shared room,318.0,0.0,99.0,1.0,4.83,1.0,1.0,Shared room in hostel
+5929,Shared room,1114.0,0.0,99.0,1.0,4.8,0.0,0.0,Shared room in home
+7221,Shared room,514.0,0.0,99.0,1.0,4.9,1.0,1.0,Shared room in hotel
+7375,Shared room,1900.0,0.0,100.0,0.0,4.93,1.0,1.0,Shared room in hostel
+7444,Shared room,171.0,0.0,38.0,3.0,4.75,1.0,0.0,Shared room in home
+7464,Shared room,7500.0,0.0,99.0,1.0,4.8,1.0,1.0,Shared room in rental unit
+7477,Shared room,303.0,0.0,100.0,4.0,5.0,1.0,1.0,Shared room in hostel
+7478,Shared room,314.0,0.0,100.0,4.0,4.54,1.0,1.0,Shared room in hostel
+7931,Shared room,171.0,0.0,38.0,3.0,5.0,1.0,0.0,Shared room in home
+8346,Shared room,333.0,0.0,100.0,4.0,4.62,1.0,1.0,Shared room in hostel
+8395,Shared room,171.0,0.0,38.0,2.5,5.0,1.0,0.0,Shared room in home
+8927,Shared room,6000.0,0.0,0.0,1.0,4.8,1.0,1.0,Shared room in serviced apartment
+9967,Shared room,1643.0,0.0,60.0,1.0,4.6,1.0,0.0,Shared room in condo
+10534,Shared room,257.0,0.0,100.0,3.0,4.33,1.0,1.0,Shared room in hostel
+10946,Shared room,179.0,0.0,99.0,1.0,4.56,1.0,1.0,Shared room in hostel
+11016,Shared room,250.0,0.0,87.0,1.5,4.83,1.0,1.0,Shared room in townhouse
+11509,Shared room,250.0,0.0,87.0,1.5,4.82,1.0,1.0,Shared room in townhouse
+11510,Shared room,250.0,0.0,87.0,1.5,4.83,1.0,1.0,Shared room in townhouse
+11714,Shared room,552.0,0.0,94.0,4.0,4.86,1.0,1.0,Shared room in hostel
+12543,Shared room,562.0,0.0,99.0,2.5,4.83,1.0,1.0,Shared room in bed and breakfast
+12588,Shared room,590.0,0.0,99.0,2.5,4.78,1.0,1.0,Shared room in bed and breakfast
+12592,Shared room,775.0,0.0,99.0,2.5,4.95,1.0,1.0,Shared room in bed and breakfast
+12596,Shared room,590.0,0.0,99.0,2.5,4.9,1.0,1.0,Shared room in bed and breakfast
+12598,Shared room,562.0,0.0,99.0,2.5,4.9,1.0,1.0,Shared room in bed and breakfast
+12611,Shared room,742.0,0.0,99.0,2.5,4.92,1.0,1.0,Shared room in bed and breakfast
+12622,Shared room,775.0,0.0,99.0,2.5,4.89,1.0,1.0,Shared room in bed and breakfast
+13105,Shared room,133.0,0.0,98.0,2.5,4.27,1.0,1.0,Shared room in home
+13161,Shared room,313.0,1.0,100.0,1.0,4.9,1.0,0.0,Shared room in hostel
+13231,Shared room,243.0,1.0,100.0,1.0,4.78,1.0,0.0,Shared room in hostel
+13261,Shared room,313.0,1.0,100.0,1.0,4.88,1.0,0.0,Shared room in hostel
+13366,Shared room,313.0,1.0,100.0,1.0,4.92,1.0,0.0,Shared room in hostel
+13375,Shared room,313.0,1.0,100.0,1.0,4.9,1.0,0.0,Shared room in hostel
+13833,Shared room,700.0,1.0,100.0,2.0,4.67,1.0,0.0,Shared room in home
+13953,Shared room,814.0,0.0,67.0,1.0,4.8,1.0,1.0,Shared room in rental unit
+13962,Shared room,750.0,0.0,67.0,1.0,3.5,1.0,1.0,Shared room in rental unit
+14300,Shared room,800.0,0.0,100.0,1.0,4.83,1.0,1.0,Shared room in guest suite
+15242,Shared room,136.0,0.0,98.0,2.5,4.03,1.0,1.0,Shared room in home
+15565,Shared room,400.0,0.0,100.0,2.0,4.5,1.0,1.0,Shared room in hostel
+16178,Shared room,313.0,1.0,100.0,1.0,4.89,1.0,1.0,Shared room in hostel
+17232,Shared room,300.0,0.0,78.0,1.0,4.75,1.0,1.0,Shared room in home
+17509,Shared room,552.0,0.0,94.0,1.0,4.76,1.0,1.0,Shared room in guesthouse
+17801,Shared room,321.0,0.0,98.0,1.0,5.0,0.0,1.0,Shared room in hostel
+17802,Shared room,290.0,0.0,98.0,2.0,4.5,0.0,1.0,Shared room in hostel
+17803,Shared room,290.0,0.0,98.0,1.0,5.0,0.0,1.0,Shared room in hostel
+17804,Shared room,290.0,0.0,98.0,1.0,5.0,0.0,1.0,Shared room in hostel
+17806,Shared room,290.0,0.0,98.0,1.0,4.8,0.0,1.0,Shared room in hostel
+17808,Shared room,290.0,0.0,98.0,1.0,5.0,0.0,1.0,Shared room in hostel
+17839,Shared room,313.0,1.0,100.0,1.0,4.91,1.0,1.0,Shared room in hostel
+17952,Shared room,220.0,1.0,100.0,2.0,5.0,1.0,1.0,Shared room in guesthouse
+18086,Shared room,243.0,1.0,100.0,1.0,4.88,1.0,1.0,Shared room in hostel
+18143,Shared room,313.0,1.0,100.0,1.0,4.96,1.0,1.0,Shared room in hostel
+18154,Shared room,386.0,0.0,98.0,1.0,4.75,0.0,1.0,Shared room in hostel
+18155,Shared room,290.0,0.0,98.0,1.0,4.6,0.0,1.0,Shared room in hostel
+18156,Shared room,476.0,0.0,98.0,1.0,5.0,0.0,1.0,Shared room in hostel
+18163,Shared room,313.0,1.0,100.0,1.0,4.97,1.0,1.0,Shared room in hostel
+18228,Shared room,290.0,0.0,98.0,1.0,4.86,0.0,1.0,Shared room in hostel
+18975,Shared room,249.0,1.0,98.0,1.0,4.95,1.0,0.0,Shared room in rental unit
+19763,Shared room,250.0,1.0,100.0,2.0,4.55,1.0,1.0,Shared room in casa particular
+19828,Shared room,200.0,1.0,100.0,1.0,5.0,1.0,1.0,Shared room in guesthouse
+19936,Shared room,250.0,1.0,100.0,2.0,4.5,1.0,1.0,Shared room in guesthouse
+19938,Shared room,200.0,1.0,100.0,2.0,4.83,1.0,1.0,Shared room in guesthouse
+19939,Shared room,220.0,1.0,100.0,2.0,4.57,1.0,1.0,Shared room in guesthouse
+20008,Shared room,309.0,1.0,67.0,1.0,4.86,1.0,0.0,Shared room in rental unit
+20018,Shared room,133.0,0.0,98.0,2.5,4.8,1.0,1.0,Shared room in home
+20393,Shared room,193.0,0.0,92.0,2.0,4.88,1.0,0.0,Shared room in guesthouse
+20395,Shared room,189.0,0.0,92.0,2.0,5.0,1.0,0.0,Shared room in home
+21143,Shared room,310.0,1.0,93.0,1.0,4.67,1.0,1.0,Shared room in home
+21318,Shared room,120.0,0.0,98.0,2.5,4.5,1.0,1.0,Shared room in home
+21469,Shared room,474.0,0.0,94.0,4.0,4.78,1.0,1.0,Shared room in home
+21472,Shared room,116.0,0.0,98.0,2.5,4.42,1.0,1.0,Shared room in home
+21597,Shared room,120.0,0.0,98.0,2.5,4.5,1.0,1.0,Shared room in home
+21602,Shared room,133.0,0.0,98.0,2.5,3.0,1.0,1.0,Shared room in home
+21631,Shared room,120.0,0.0,98.0,2.5,4.0,1.0,1.0,Shared room in home
+21790,Shared room,402.0,0.0,100.0,1.0,5.0,1.0,1.0,Shared room in hotel
+22185,Shared room,230.0,1.0,99.0,1.0,4.85,1.0,0.0,Shared room in rental unit
+22187,Shared room,230.0,1.0,99.0,1.0,4.67,1.0,0.0,Shared room in rental unit
+22188,Shared room,230.0,1.0,99.0,1.0,4.76,1.0,0.0,Shared room in rental unit
+22346,Shared room,133.0,0.0,98.0,2.5,4.5,1.0,1.0,Shared room in bed and breakfast
+22453,Shared room,117.0,0.0,98.0,4.0,3.71,1.0,1.0,Shared room in bed and breakfast
+22615,Shared room,123.0,0.0,98.0,4.0,3.0,1.0,1.0,Shared room in bed and breakfast
+22625,Shared room,125.0,0.0,98.0,4.0,3.75,1.0,1.0,Shared room in bed and breakfast
+22814,Shared room,201.0,0.0,72.0,1.5,4.92,1.0,0.0,Shared room in home
+22884,Shared room,510.0,0.0,99.0,1.0,4.9,1.0,1.0,Shared room in rental unit
+23125,Shared room,607.0,1.0,100.0,1.0,4.56,1.0,1.0,Shared room in rental unit
+23255,Shared room,280.0,0.0,99.0,0.5,4.84,1.0,1.0,Shared room in guesthouse
+23632,Shared room,200.0,0.0,97.0,2.0,4.69,1.0,0.0,Shared room in home
+24713,Shared room,330.0,0.0,78.0,1.0,4.7,1.0,1.0,Shared room in home
+24965,Shared room,918.0,0.0,94.0,1.0,4.63,1.0,1.0,Shared room in rental unit
+25009,Shared room,23760.0,0.0,38.0,3.0,4.8,1.0,0.0,Shared room in bed and breakfast
+25020,Shared room,136.0,0.0,98.0,2.5,4.0,1.0,1.0,Shared room in home
+25409,Shared room,242.0,0.0,100.0,0.5,5.0,1.0,0.0,Shared room in hotel
+25410,Shared room,194.0,0.0,100.0,0.5,4.8,1.0,0.0,Shared room in hotel
+25646,Shared room,1200.0,0.0,25.0,1.0,4.8,1.0,0.0,Shared room in rental unit
+25735,Shared room,194.0,0.0,100.0,1.0,4.8,1.0,0.0,Shared room in hotel
+25755,Shared room,142.0,0.0,98.0,2.5,4.8,1.0,1.0,Shared room in home
+25756,Shared room,142.0,0.0,98.0,2.5,4.8,1.0,1.0,Shared room in bed and breakfast
+25769,Shared room,142.0,0.0,98.0,2.5,4.8,1.0,1.0,Shared room in bed and breakfast
+25770,Shared room,205.0,0.0,98.0,2.5,4.0,1.0,1.0,Shared room in home
+25771,Shared room,207.0,0.0,98.0,2.5,4.8,1.0,1.0,Shared room in bed and breakfast
+25871,Shared room,280.0,0.0,100.0,1.0,5.0,1.0,0.0,Shared room in rental unit
+25921,Shared room,345.0,0.0,92.0,1.0,4.8,1.0,0.0,Shared room in guesthouse
+25922,Shared room,345.0,0.0,92.0,1.0,4.8,1.0,0.0,Shared room in guesthouse
+26057,Shared room,23999.0,0.0,38.0,1.0,4.8,1.0,0.0,Shared room in bed and breakfast
+26257,Shared room,201.0,0.0,64.0,2.0,4.8,1.0,0.0,Shared room in home
+26259,Shared room,201.0,0.0,64.0,2.0,4.8,1.0,1.0,Shared room in home
+26278,Shared room,227.0,0.0,92.0,2.0,4.8,1.0,1.0,Shared room in rental unit

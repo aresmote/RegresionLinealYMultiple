@@ -1,0 +1,130 @@
+,room_type,price,host_is_superhost,host_acceptance_rate,bathrooms,review_scores_cleanliness,host_identity_verified,instant_bookable,property_type
+14,Hotel room,3328.0,1.0,92.0,1.0,5.0,1.0,1.0,Room in serviced apartment
+29,Hotel room,1114.0,1.0,92.0,0.0,5.0,1.0,1.0,Room in serviced apartment
+52,Hotel room,1114.0,0.0,92.0,5.5,4.84,1.0,1.0,Room in serviced apartment
+76,Hotel room,1114.0,0.0,92.0,2.0,4.94,1.0,1.0,Room in serviced apartment
+77,Hotel room,1213.0,0.0,92.0,1.0,4.88,1.0,1.0,Room in serviced apartment
+79,Hotel room,1114.0,0.0,92.0,1.0,4.97,1.0,1.0,Room in serviced apartment
+135,Hotel room,2800.0,1.0,91.0,1.0,5.0,1.0,0.0,Room in boutique hotel
+146,Hotel room,1114.0,1.0,91.0,1.0,4.97,1.0,0.0,Room in boutique hotel
+423,Hotel room,10616.0,0.0,33.0,46.0,4.33,1.0,1.0,Room in bed and breakfast
+641,Hotel room,1435.0,0.0,97.0,1.0,4.93,1.0,1.0,Room in serviced apartment
+899,Hotel room,11194.0,0.0,33.0,10.0,4.8,1.0,1.0,Room in bed and breakfast
+901,Hotel room,9533.0,0.0,33.0,20.0,5.0,1.0,0.0,Room in serviced apartment
+910,Hotel room,6875.0,1.0,98.0,2.0,4.88,1.0,1.0,Room in serviced apartment
+1181,Hotel room,526.0,1.0,100.0,1.0,4.91,1.0,0.0,Room in serviced apartment
+1692,Hotel room,1114.0,0.0,87.0,3.0,4.65,1.0,1.0,Room in boutique hotel
+1695,Hotel room,899.0,0.0,100.0,1.0,4.66,1.0,1.0,Room in aparthotel
+1868,Hotel room,1114.0,0.0,33.0,1.0,4.8,1.0,1.0,Room in serviced apartment
+2758,Hotel room,1114.0,0.0,99.0,2.0,5.0,1.0,1.0,Room in serviced apartment
+3081,Hotel room,1990.0,0.0,97.0,1.0,4.8,1.0,1.0,Room in aparthotel
+3103,Hotel room,1990.0,0.0,97.0,1.0,4.92,1.0,0.0,Room in serviced apartment
+3105,Hotel room,1114.0,0.0,100.0,1.0,5.0,1.0,0.0,Room in serviced apartment
+3106,Hotel room,1990.0,1.0,99.0,1.0,4.57,1.0,1.0,Room in serviced apartment
+3114,Hotel room,1114.0,0.0,97.0,1.5,4.65,1.0,0.0,Room in serviced apartment
+3667,Hotel room,1114.0,1.0,100.0,1.5,4.82,1.0,0.0,Room in serviced apartment
+3829,Hotel room,1999.0,0.0,87.0,2.0,3.8,1.0,1.0,Room in boutique hotel
+4149,Hotel room,1820.0,0.0,100.0,1.0,4.93,1.0,0.0,Room in serviced apartment
+4383,Hotel room,1114.0,1.0,100.0,1.0,4.89,1.0,0.0,Room in serviced apartment
+4398,Hotel room,779.0,1.0,97.0,1.0,4.5,1.0,1.0,Room in hotel
+4400,Hotel room,633.0,1.0,97.0,1.0,4.75,1.0,1.0,Room in hotel
+4410,Hotel room,1400.0,1.0,97.0,1.0,4.44,1.0,1.0,Room in hotel
+4411,Hotel room,824.0,1.0,97.0,1.0,4.7,1.0,1.0,Room in hotel
+4412,Hotel room,656.0,1.0,97.0,1.0,4.58,1.0,1.0,Room in hotel
+4413,Hotel room,639.0,1.0,97.0,1.0,4.33,1.0,1.0,Room in hotel
+4414,Hotel room,1114.0,1.0,97.0,1.0,3.67,1.0,1.0,Room in hotel
+4415,Hotel room,550.0,1.0,97.0,1.0,4.7,1.0,1.0,Room in hotel
+4416,Hotel room,629.0,1.0,97.0,1.0,5.0,1.0,1.0,Room in hotel
+4417,Hotel room,1114.0,1.0,97.0,1.0,5.0,1.0,1.0,Room in hotel
+4431,Hotel room,634.0,1.0,97.0,1.0,5.0,1.0,1.0,Room in hotel
+4432,Hotel room,579.0,1.0,97.0,1.0,4.42,1.0,1.0,Room in hotel
+4508,Hotel room,550.0,0.0,96.0,1.0,4.54,1.0,0.0,Room in bed and breakfast
+4601,Hotel room,3050.0,1.0,100.0,1.0,5.0,1.0,1.0,Room in boutique hotel
+4700,Hotel room,5843.0,0.0,100.0,1.0,5.0,1.0,1.0,Room in boutique hotel
+4748,Hotel room,1994.0,0.0,97.0,1.0,5.0,1.0,0.0,Room in serviced apartment
+4948,Hotel room,1114.0,0.0,67.0,1.5,4.8,1.0,0.0,Room in serviced apartment
+4958,Hotel room,8088.0,1.0,100.0,1.5,4.8,1.0,0.0,Room in boutique hotel
+4998,Hotel room,1114.0,0.0,86.0,1.0,5.0,1.0,1.0,Room in serviced apartment
+4999,Hotel room,890.0,0.0,86.0,1.0,5.0,1.0,1.0,Room in serviced apartment
+5000,Hotel room,1114.0,0.0,86.0,1.0,5.0,1.0,0.0,Room in serviced apartment
+5083,Hotel room,1099.0,0.0,87.0,1.0,5.0,1.0,0.0,Room in boutique hotel
+5115,Hotel room,1114.0,0.0,99.0,1.0,4.8,0.0,0.0,Room in casa particular
+5116,Hotel room,1114.0,0.0,67.0,1.0,5.0,1.0,1.0,Room in bed and breakfast
+5198,Hotel room,1114.0,1.0,92.0,1.0,5.0,1.0,1.0,Room in serviced apartment
+5233,Hotel room,1114.0,0.0,86.0,2.0,5.0,1.0,0.0,Room in serviced apartment
+5312,Hotel room,1114.0,0.0,67.0,1.0,5.0,1.0,1.0,Room in bed and breakfast
+5314,Hotel room,1114.0,0.0,67.0,1.5,4.95,1.0,1.0,Room in bed and breakfast
+5315,Hotel room,1114.0,0.0,67.0,1.5,4.93,1.0,1.0,Room in bed and breakfast
+5316,Hotel room,1114.0,0.0,67.0,1.5,5.0,1.0,1.0,Room in bed and breakfast
+5317,Hotel room,1114.0,0.0,67.0,1.5,4.9,1.0,1.0,Room in bed and breakfast
+5396,Hotel room,1300.0,0.0,40.0,1.0,4.8,1.0,1.0,Room in bed and breakfast
+5397,Hotel room,1352.0,0.0,40.0,1.0,4.8,1.0,1.0,Room in bed and breakfast
+5414,Hotel room,415.0,1.0,100.0,1.0,4.68,1.0,1.0,Room in casa particular
+5421,Hotel room,1456.0,0.0,40.0,1.0,5.0,1.0,1.0,Room in bed and breakfast
+5434,Hotel room,1300.0,0.0,40.0,1.0,5.0,1.0,1.0,Room in bed and breakfast
+5440,Hotel room,5167.0,0.0,100.0,1.0,5.0,1.0,1.0,Room in boutique hotel
+5441,Hotel room,5167.0,0.0,100.0,1.0,5.0,1.0,1.0,Room in boutique hotel
+5451,Hotel room,1114.0,0.0,0.0,2.0,5.0,1.0,0.0,Room in serviced apartment
+5508,Hotel room,5167.0,0.0,100.0,1.0,4.8,1.0,1.0,Room in boutique hotel
+5509,Hotel room,6132.0,0.0,100.0,1.0,5.0,1.0,1.0,Room in boutique hotel
+5519,Hotel room,6132.0,0.0,100.0,1.0,5.0,1.0,1.0,Room in boutique hotel
+5559,Hotel room,1745.0,0.0,99.0,1.0,4.8,1.0,0.0,Room in boutique hotel
+5696,Hotel room,1114.0,0.0,100.0,1.5,4.4,1.0,1.0,Room in bed and breakfast
+5819,Hotel room,415.0,1.0,100.0,1.0,4.63,1.0,1.0,Room in casa particular
+5848,Hotel room,1114.0,1.0,100.0,1.0,5.0,1.0,1.0,Room in boutique hotel
+8575,Hotel room,1114.0,0.0,99.0,1.5,4.25,1.0,1.0,Room in hostel
+14396,Hotel room,1833.0,0.0,100.0,1.0,4.8,1.0,1.0,Room in hotel
+21254,Hotel room,1114.0,0.0,99.0,1.0,4.8,0.0,1.0,Room in hotel
+21267,Hotel room,1114.0,0.0,99.0,1.0,4.8,0.0,1.0,Room in hotel
+21268,Hotel room,1114.0,0.0,99.0,1.0,4.8,0.0,1.0,Room in hotel
+21269,Hotel room,1114.0,0.0,99.0,1.0,4.8,0.0,1.0,Room in hotel
+21270,Hotel room,1114.0,0.0,99.0,1.0,4.8,0.0,1.0,Room in hotel
+21271,Hotel room,1114.0,0.0,99.0,1.0,4.8,0.0,1.0,Room in hotel
+21272,Hotel room,1114.0,0.0,99.0,1.0,4.8,0.0,1.0,Room in hotel
+21273,Hotel room,1114.0,0.0,99.0,1.0,4.8,0.0,1.0,Room in hotel
+21274,Hotel room,1114.0,0.0,99.0,1.0,4.8,0.0,1.0,Room in hotel
+21275,Hotel room,1114.0,0.0,99.0,1.0,4.8,0.0,1.0,Room in hotel
+21285,Hotel room,1114.0,0.0,99.0,2.0,4.8,0.0,1.0,Room in hotel
+21286,Hotel room,1114.0,0.0,99.0,2.0,4.8,0.0,1.0,Room in hotel
+21287,Hotel room,1114.0,0.0,99.0,2.0,4.8,0.0,1.0,Room in hotel
+21288,Hotel room,1114.0,0.0,99.0,2.0,4.8,0.0,1.0,Room in hotel
+21289,Hotel room,1114.0,0.0,99.0,2.0,4.8,0.0,1.0,Room in hotel
+21520,Hotel room,1114.0,0.0,100.0,2.0,4.8,1.0,1.0,Room in boutique hotel
+21522,Hotel room,1114.0,0.0,100.0,1.0,4.8,1.0,1.0,Room in boutique hotel
+21523,Hotel room,1114.0,0.0,100.0,1.0,4.8,1.0,1.0,Room in boutique hotel
+21524,Hotel room,1114.0,0.0,100.0,1.0,4.8,1.0,1.0,Room in boutique hotel
+21534,Hotel room,1114.0,0.0,100.0,1.0,4.8,1.0,1.0,Room in boutique hotel
+21535,Hotel room,1114.0,0.0,100.0,1.0,4.8,1.0,1.0,Room in boutique hotel
+21536,Hotel room,1114.0,0.0,100.0,1.0,4.8,1.0,1.0,Room in boutique hotel
+21537,Hotel room,1114.0,0.0,100.0,1.0,4.8,1.0,1.0,Room in boutique hotel
+21538,Hotel room,1114.0,0.0,100.0,1.0,4.8,1.0,1.0,Room in boutique hotel
+21539,Hotel room,1114.0,0.0,100.0,1.0,4.8,1.0,1.0,Room in boutique hotel
+23029,Hotel room,1833.0,0.0,99.0,1.0,4.8,0.0,1.0,Room in hotel
+23030,Hotel room,1833.0,0.0,99.0,1.0,4.8,0.0,1.0,Room in hotel
+23031,Hotel room,1833.0,0.0,99.0,1.0,4.8,0.0,1.0,Room in hotel
+23032,Hotel room,1833.0,0.0,99.0,1.0,4.8,0.0,1.0,Room in hotel
+23037,Hotel room,1835.0,0.0,100.0,1.0,4.8,0.0,1.0,Room in hotel
+23038,Hotel room,1961.0,0.0,100.0,1.0,4.0,0.0,1.0,Room in hotel
+23039,Hotel room,3175.0,0.0,100.0,2.0,5.0,0.0,1.0,Room in hotel
+23040,Hotel room,1114.0,0.0,100.0,2.0,4.8,0.0,1.0,Room in hotel
+23041,Hotel room,3175.0,0.0,100.0,2.0,5.0,0.0,1.0,Room in hotel
+23042,Hotel room,4527.0,0.0,100.0,3.0,4.8,0.0,1.0,Room in hotel
+23043,Hotel room,4802.0,0.0,99.0,3.0,4.8,0.0,1.0,Room in hotel
+23044,Hotel room,4802.0,0.0,99.0,3.0,4.8,0.0,1.0,Room in hotel
+23045,Hotel room,5935.0,0.0,99.0,4.0,4.8,0.0,1.0,Room in hotel
+23046,Hotel room,5935.0,0.0,99.0,4.0,4.8,0.0,1.0,Room in hotel
+23047,Hotel room,5935.0,0.0,99.0,4.0,4.8,0.0,1.0,Room in hotel
+23048,Hotel room,1833.0,0.0,99.0,1.0,4.8,0.0,1.0,Room in hotel
+23049,Hotel room,1833.0,0.0,99.0,1.0,4.8,0.0,1.0,Room in hotel
+23050,Hotel room,5868.0,0.0,100.0,4.0,4.8,0.0,1.0,Room in hotel
+23060,Hotel room,2688.0,0.0,99.0,2.0,4.8,0.0,1.0,Room in hotel
+23061,Hotel room,2688.0,0.0,99.0,2.0,4.8,0.0,1.0,Room in hotel
+23062,Hotel room,2688.0,0.0,99.0,2.0,4.8,0.0,1.0,Room in hotel
+23063,Hotel room,3832.0,0.0,99.0,3.0,4.8,0.0,1.0,Room in hotel
+23064,Hotel room,3832.0,0.0,99.0,3.0,4.8,0.0,1.0,Room in hotel
+23065,Hotel room,3832.0,0.0,99.0,3.0,4.8,0.0,1.0,Room in hotel
+23066,Hotel room,4964.0,0.0,99.0,4.0,4.8,0.0,1.0,Room in hotel
+23067,Hotel room,4964.0,0.0,99.0,4.0,4.8,0.0,1.0,Room in hotel
+23068,Hotel room,4964.0,0.0,99.0,4.0,4.8,0.0,1.0,Room in hotel
+23069,Hotel room,1833.0,0.0,99.0,1.0,4.8,0.0,1.0,Room in hotel
+23070,Hotel room,1833.0,0.0,99.0,1.0,4.8,0.0,1.0,Room in hotel
